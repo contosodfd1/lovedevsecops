@@ -1,0 +1,2 @@
+
+django-piston==0.2.0

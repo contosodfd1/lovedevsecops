@@ -1,0 +1,1 @@
+az deployment group create --template-file IaC/Azure/bicep/main.bicep --resource-group Deploy
